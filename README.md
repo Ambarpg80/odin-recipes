@@ -1,8 +1,8 @@
-# odin-recipes
+# Odin-Recipes
 
-This is a practice repo to help me get back into coding daily. If you're looking at my work here on github you'll see I haven't been active in the past couple of. Beofre that I was teach myself Python and going through the curriculum belonging to Flatiron School which I attended by was taught Ruby and given access to the Python curriculum after graduation. I didn't like Python much though I am looking to try it again at a later date. Just not currently. Currently I am looking to go back to Javascript and dive deeper into Front end development and learning the Angular framework and Typescript while brushing up on React. I'm also looking to perhaps pick up Node, and Express on this journey. We'll see.
+This is a practice repo to help me get back into coding daily. If you're looking at my work here on github you'll see I haven't been active in the past couple of months. Before that, I was teaching myself Python and going through the curriculum belonging to Flatiron School (which I attended). I learned Ruby as part of the Fullstack curriculum and was given access to the Python curriculum after graduation. I didn't like Python much though I am looking to try it again at a later date. Just not currently. Currently I am looking to go back to Javascript and dive deeper into Frontend development by expanding into Typescript and learning the Angular framework. I'm also looking to perhaps pick up Node, and Express on this journey. We'll see.
 
-For this exercise
+## Assignment 
 Iteration 1: initial structure
 
     Within the odin-recipes directory, create an index.html file.
