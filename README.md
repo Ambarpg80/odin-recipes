@@ -17,7 +17,7 @@ Iteration 2: recipe page
 
     Add a link back to the index page on your recipe page for easier navigation. You can place this link at the top or bottom of your recipe page (e.g., lasagna.html). Here’s an example:
 
-    '<a href="../index.html">Home</a>'
+   <a href="../index.html">Home</a>
 
     This allows users to quickly return to the home page after viewing the recipe.
 
@@ -39,11 +39,11 @@ Iteration 4: add more recipes
     Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 
 Example:
-'
- <ul>
+
+  <ul>
     <li><a href="recipes/yourrecipe.html">Recipe Title 1</a></li>
     <li><a href="recipes/yourrecipe.html">Recipe Title 2</a></li>
     <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
   </ul>
-'
+
 Your links won’t be flashy, but for now, just focus on building them out.
