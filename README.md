@@ -47,3 +47,5 @@ Example:
   </ul>
 
 Your links won’t be flashy, but for now, just focus on building them out.
+
+I used the site [Dominican Cooking](https://www.dominicancooking.com/) for recipe references and photos.
