@@ -1,0 +1,25 @@
+
+body{
+    margin:64px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.container img{
+    width: 300px;
+    height: auto;
+    display: inline;
+}
+
+.container .description-ingredients{
+    margin-left: 8px;
+    padding-left: 24px;
+    background-color: rgba(209, 249, 255, 0.743);
+} 
+
+ul span{
+    font-weight:700; 
+}
+   
